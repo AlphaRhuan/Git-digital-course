@@ -7,3 +7,4 @@
 
 #### Salvando alterações no git
 * Uso do comando restore
+* Comando Git pull
